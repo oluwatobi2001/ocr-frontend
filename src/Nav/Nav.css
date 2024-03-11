@@ -1,0 +1,14 @@
+.nav-bar {
+    display: flex;
+    height: 40px;
+    position: sticky;
+    background-color: brown;
+}
+.nav-bar > p {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+    color: white;
+    justify-content: center;
+}
